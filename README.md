@@ -1,4 +1,5 @@
-# Basics
-This directory contains shell scripts for the basics project.
-- **0-current_working_directory**: prints the absolute path of the current working directory.
-- 
+# Holberton School Projects
+
+This repository contains solutions for the Shell projects:
+- basics: contains basic shell scripts
+- permissions: contains scripts for shell permissions (e.g. 0-iam_betty)
