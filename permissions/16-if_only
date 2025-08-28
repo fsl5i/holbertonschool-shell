@@ -1,4 +1,4 @@
 #!/bin/bash
-if [ -O hello ]; then
+if [ "$(stat -c %U hello)" = "guillaume" ]; then
     chown vincent hello
 fi
