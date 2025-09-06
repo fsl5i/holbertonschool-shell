@@ -1,3 +1,2 @@
 #!/bin/bash
-# Print the addition of 128 with the value of TRUEKNOWLEDGE followed by a new line
-printf "%s\n" $((128 + TRUEKNOWLEDGE))
+echo $((128 + TRUEKNOWLEDGE))
